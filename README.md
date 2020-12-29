@@ -1,3 +1,11 @@
-# Strapi application
+# 9blog-backend
 
-A quick description of your strapi application
+## URL: https://backend-9blog.herokuapp.com/
+
+### Routes
+
+/profiles
+/actions
+/action-types
+/posts
+/categories
