@@ -1,0 +1,26 @@
+{
+  "kind": "collectionType",
+  "collectionName": "actions",
+  "info": {
+    "name": "Action"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "profile": {
+      "model": "profile"
+    },
+    "post": {
+      "model": "post"
+    },
+    "action_type": {
+      "model": "action-type"
+    },
+    "content": {
+      "type": "text"
+    }
+  }
+}
