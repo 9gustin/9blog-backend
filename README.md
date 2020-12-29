@@ -4,8 +4,8 @@
 
 ### Routes
 
-/profiles
-/actions
-/action-types
-/posts
-/categories
+- /profiles
+- /actions
+- /action-types
+- /posts
+- /categories
